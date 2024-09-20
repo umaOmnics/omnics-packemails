@@ -1,0 +1,17 @@
+{
+    "name": "omnics/packemails",
+    "description": "My Custom package",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Omnics\\Packemails\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yandava Uma",
+            "email": "umayandava584@gmail.com"
+        }
+    ],
+    "require": {}
+}
