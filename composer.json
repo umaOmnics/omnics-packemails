@@ -10,6 +10,6 @@
       "omnics\\packemails\\": "src/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "1.0.0",
   "prefer-stable": true
 }
